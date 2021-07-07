@@ -9,7 +9,7 @@
     "gatsby-image": "^2.3.5",
     "gatsby-plugin-netlify": "^2.2.4",
     "gatsby-plugin-netlify-cms": "^4.2.5",
-    "gatsby-plugin-purgecss": "^5.0.0",
+    "gatsby-plugin-purgecss": "^6.0.0",
     "gatsby-plugin-react-helmet": "^3.2.5",
     "gatsby-plugin-sass": "^2.2.4",
     "gatsby-plugin-sharp": "^2.5.7",
